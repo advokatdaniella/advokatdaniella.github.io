@@ -11,4 +11,4 @@ Det vigtigste for mig, når jeg rådgiver en kunde, er, at kunden får en rådgi
 
 Jeg har valgt at have kontor et sted, hvor der hverken er mødelokaler eller reception. I kontortiden er du til gengæld altid velkommen til at kigge forbi til en kop kaffe og en gratis, uforpligtende snak.
 
-Siden 2007 har jeg boet på Vesterbro i en andelsboligforening med et skønt naboskab. 
+Siden 2007 har jeg boet på Vesterbro i en andelsboligforening med et skønt naboskab. Hej hej
