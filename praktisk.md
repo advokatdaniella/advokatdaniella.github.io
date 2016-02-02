@@ -3,4 +3,4 @@ title: Praktisk
 permalink: /praktisk/
 layout: standard
 ---
-Tekst. Se i øvrigt [mine forretningsbetingelser her](/raadgivning).
+Tekst. Se i øvrigt [mine forretningsbetingelser her](/forretningsbetingelser).
