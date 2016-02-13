@@ -17,6 +17,8 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+site_email: "<a href='ma&#105;l&#116;&#111;&#58;%64%6D%74&#64;advo&#107;a&#116;d&#97;n&#37;69&#101;l&#108;&#97;%2&#69;&#100;&#107;'>dmt&#64;a&#100;vokatdan&#105;&#101;lla&#46;&#100;k</a>"
+
 exclude:      [
                 'node_modules',
                 'npm-debug.log',
