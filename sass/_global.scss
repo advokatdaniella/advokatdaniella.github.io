@@ -1,12 +1,28 @@
+body {
+  background: url('/assets/img/brown-texture.png');
+
+  height: auto !important;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  .content {
+    flex: 1 0;
+  }
+}
 .site-header {
   height: 120px;
   padding-top: 20px;
   border-bottom: solid 3px $light-brown;
   margin-bottom: 20px;
+  .site-logo {
+  }
 }
 .brown-bar {
   background-color: $dark-brown;
   padding: 20px 0;
   font-size: $small-font-size;
   text-align: center;
+}
+h2 {
+  color: $beige;
 }
