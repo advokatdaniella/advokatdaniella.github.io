@@ -1,13 +1,12 @@
 body {
-  background-color: $brown;
-  background: url('/assets/img/brown-texture.png');
-
   height: auto !important;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
   .content {
     flex: 1 0;
+    background-color: $brown;
+    background: url('/assets/img/brown-texture.png');
   }
 }
 .site-header {
